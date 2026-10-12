@@ -3,6 +3,7 @@
 [![CurseForge downloads](.github/badges/curseforge.svg)](https://www.curseforge.com/minecraft/mc-mods/weather-refined)
 [![Modrinth downloads](.github/badges/modrinth.svg)](https://modrinth.com/mod/weatherrefind)
 [![Created on CurseForge](.github/badges/created.svg)](https://www.curseforge.com/minecraft/mc-mods/weather-refined)
+[![Modpack Friendly](.github/badges/modpack-friendly.svg)](LICENSE)
 
 **Downloads:** [CurseForge](https://www.curseforge.com/minecraft/mc-mods/weather-refined) · [Modrinth](https://modrinth.com/mod/weatherrefind)
 
@@ -25,6 +26,6 @@ Install the mod on the client. Fabric ports also require Fabric API. Use the bui
 
 See [BUILDING.md](BUILDING.md) for build instructions.
 
-[![Modpack Friendly](.github/badges/modpack-friendly.svg)](LICENSE)
+Licensed under [MPL-2.0](LICENSE). Modpack inclusion is welcome. Distributed modifications to MPL-covered source files must remain available under MPL-2.0.
 
-Licensed under [PolyForm Shield 1.0.0](LICENSE). Modpack inclusion is welcome. Use, modification and redistribution are allowed under the license's noncompetition terms.
+Copyright (c) 2025-2026 Norevy (Hxtomi).

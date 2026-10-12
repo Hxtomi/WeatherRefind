@@ -1,3 +1,6 @@
+// SPDX-License-Identifier: MPL-2.0
+// Copyright (c) 2025-2026 Norevy (Hxtomi).
+
 package dev.norevy.weatherrefind;
 
 import com.google.gson.Gson;
